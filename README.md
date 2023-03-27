@@ -1,6 +1,6 @@
 # Projetos HTML/CSS
 
-Projetos realizados pela Formação: "A partir do zero: HTML e CSS para projetos web", da plataforma Alura.
+Projetos realizados pelas Formações: "A partir do zero: HTML e CSS para projetos web" e "CSS: aprofunde em estilos", da plataforma Alura.
 
 - Tecnologias utilizadas ao longo dos projetos: HMTM | CSS | Flexbox | Sass | Tailwind | Grid.
 
