@@ -5,7 +5,7 @@ Projetos realizados pelas Formações: "A partir do zero: HTML e CSS para projet
 - Tecnologias utilizadas ao longo dos projetos: HTML | CSS | Flexbox | Sass | Tailwind | Grid.
 
 #### 1º Projeto - Portfólio.
-- Link da página:
+- Link da página: https://642779630c08991bd0c7e783--sparkly-sherbet-dcc78b.netlify.app
 - Tecnologias Utilizadas: HTML | CSS | Flexbox.
 - Código: https://github.com/antonioneto30/projetos-html-css-alura/tree/master/1%20-%20Portfólio
 
