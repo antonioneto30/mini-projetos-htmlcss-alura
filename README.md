@@ -9,8 +9,8 @@ Projetos realizados pelas Formações: "A partir do zero: HTML e CSS para projet
 - Tecnologias Utilizadas: HTML | CSS | Flexbox.
 - Código: https://github.com/antonioneto30/projetos-html-css-alura/tree/master/1%20-%20Portfólio
 
-#### 2º Projeto - 
-- Link da página: Alura+ | Combo +
+#### 2º Projeto - Alura+ | Combo +
+- Link da página: 
 - Tecnologias Utilizadas: HTML | CSS | Flexbox.
 - Código: https://github.com/antonioneto30/projetos-html-css-alura/tree/master/2%20-%20AluraPlus
 
