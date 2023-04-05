@@ -3,6 +3,8 @@
     --cinza-secundario: #C0C0C0;
     --botao-azul: #167BF7;
     --cor-de-fundo: #00030C;
+    --fonte-principal: 'Inter';
+    --botao-azul-efeito: #3c92fa;
 }
 
 * {
@@ -13,6 +15,9 @@
 body {
     background-color: var(--cor-de-fundo);
     color: var(--branco-principal);
+    font-family: var(--fonte-principal);
+    font-size: 16px;
+    font-weight: 400;
 }
 
 .principal {
@@ -23,4 +28,33 @@ body {
 
 .container1 {
     height: 100vh;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.container__titulo {
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.container__botao {
+    background-color: var(--botao-azul);
+    border-radius: 5px;
+    padding: 1em; /* em: Essa unidade muda para os elementos filhos de acordo com o tamanho da fonte (font-size) do elemento pai | Tamanho da fonte.*/
+    text-decoration: none;
+    color: var(--branco-principal);
+    display: block;
+    /*display: flex;
+    /*width: fit-content;*/
+}
+
+.botao__secundario {
+    text-decoration: none;
+    background-color: transparent;
+    border: 2px solid var(--branco-principal);
+}
+
+.container__aviso {
+    font-size: 12px;
+    color: var(--cinza-secundario);
 }
