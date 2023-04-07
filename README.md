@@ -2,7 +2,7 @@
 
 Projetos realizados pelas Formações: "A partir do zero: HTML e CSS para projetos web" e "CSS: aprofunde em estilos", da plataforma Alura.
 
-- Tecnologias utilizadas ao longo dos projetos: HTML | CSS | Flexbox | Sass | Tailwind | Grid.
+- Tecnologias utilizadas ao longo dos projetos: HTML | CSS | Flexbox | Sass | Tailwind | Grid | Mobile-First | SwiperJS | Media Query.
 
 #### 1º Projeto - Portfólio.
 - Link da página: https://642779630c08991bd0c7e783--sparkly-sherbet-dcc78b.netlify.app
