@@ -17,7 +17,7 @@ Projetos realizados pelas Formações: "A partir do zero: HTML e CSS para projet
 ### 3º Projeto - 
 - Link da página:
 - Tecnologias Utilizadas: HTML | CSS | Flexbox.
-- Código:
+- Código: https://github.com/antonioneto30/projetos-html-css-alura/tree/master/3-AluraBooks
 
 ### 4º Projeto - 
 - Link da página:
