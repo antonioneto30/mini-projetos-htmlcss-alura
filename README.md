@@ -4,7 +4,7 @@ Projetos realizados pelas Formações: "A partir do zero: HTML e CSS para projet
 
 - Tecnologias utilizadas ao longo dos projetos: HTML | CSS | Flexbox | Sass | Tailwind | Grid | Mobile-First | SwiperJS | Media Query.
 
-#### 1º Projeto - Portfólio.
+#### 1º Projeto - Portfólio
 - Link da página: https://642779630c08991bd0c7e783--sparkly-sherbet-dcc78b.netlify.app
 - Tecnologias Utilizadas: HTML | CSS | Flexbox.
 - Código: https://github.com/antonioneto30/projetos-html-css-alura/tree/master/1%20-%20Portfólio
@@ -19,7 +19,7 @@ Projetos realizados pelas Formações: "A partir do zero: HTML e CSS para projet
 - Tecnologias Utilizadas: HTML | CSS | Flexbox | Mobile-First | SwiperJS | Media Query.
 - Código: https://github.com/antonioneto30/projetos-html-css-alura/tree/master/3%20-%20AluraBooks
 
-### 4º Projeto - 
+### 4º Projeto - Landing Page AluraBooks
 - Link da página:
 - Tecnologias Utilizadas: HTML | CSS | Flexbox.
 - Código:
