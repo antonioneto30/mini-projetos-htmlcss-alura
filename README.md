@@ -17,7 +17,7 @@ Projetos realizados pelas Formações: "A partir do zero: HTML e CSS para projet
 ### 3º Projeto - 
 - Link da página: https://sparkly-sherbet-dcc78b.netlify.app
 - Tecnologias Utilizadas: HTML | CSS | Flexbox | Mobile-First | SwiperJS | Media Query.
-- Código: https://github.com/antonioneto30/projetos-html-css-alura/tree/master/3-AluraBooks
+- Código: https://github.com/antonioneto30/projetos-html-css-alura/tree/master/3%20-%20AluraBooks
 
 ### 4º Projeto - 
 - Link da página:
