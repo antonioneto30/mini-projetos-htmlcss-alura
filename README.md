@@ -14,7 +14,7 @@ Projetos realizados pelas Formações: "A partir do zero: HTML e CSS para projet
 - Tecnologias Utilizadas: HTML | CSS | Flexbox | Grid.
 - Código: https://github.com/antonioneto30/projetos-html-css-alura/tree/master/2%20-%20AluraPlus
 
-### 3º Projeto - 
+### 3º Projeto - Landing Page AluraBooks
 - Link da página: https://sparkly-sherbet-dcc78b.netlify.app
 - Tecnologias Utilizadas: HTML | CSS | Flexbox | Mobile-First | SwiperJS | Media Query.
 - Código: https://github.com/antonioneto30/projetos-html-css-alura/tree/master/3%20-%20AluraBooks
