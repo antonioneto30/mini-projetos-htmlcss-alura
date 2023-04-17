@@ -4,6 +4,8 @@ Projetos realizados pelas Formações: "A partir do zero: HTML e CSS para projet
 
 - Tecnologias utilizadas ao longo dos projetos: HTML | CSS | Flexbox | Sass | Tailwind | Grid | Mobile-First | SwiperJS | Media Query.
 
+- Primeira Formação: "A partir do zero: HTML e CSS para projetos web"
+
 #### 1º Projeto - Portfólio
 - Link da página: https://642779630c08991bd0c7e783--sparkly-sherbet-dcc78b.netlify.app
 - Tecnologias Utilizadas: HTML | CSS | Flexbox.
@@ -14,27 +16,29 @@ Projetos realizados pelas Formações: "A partir do zero: HTML e CSS para projet
 - Tecnologias Utilizadas: HTML | CSS | Flexbox | Grid.
 - Código: https://github.com/antonioneto30/projetos-html-css-alura/tree/master/2%20-%20AluraPlus
 
-### 3º Projeto - Landing Page AluraBooks
+#### 3º Projeto - Landing Page AluraBooks
 - Link da página: https://sparkly-sherbet-dcc78b.netlify.app
 - Tecnologias Utilizadas: HTML | CSS | Flexbox | Mobile-First | SwiperJS | Media Query.
 - Código: https://github.com/antonioneto30/projetos-html-css-alura/tree/master/3%20-%20AluraBooks
 
-### 4º Projeto - Landing Page AluraBooks
-- Link da página:
-- Tecnologias Utilizadas: HTML | CSS | Flexbox.
-- Código:
+- Segunda Formação: "CSS: aprofunde em estilos"
 
-### 5º Projeto - 
+#### 4º Projeto - Plataforma AluraPlay (A página veio pronta, o desafio foi deixá-la responsiva)
+- Link da página:
+- Tecnologias Utilizadas: HTML | CSS | Flexbox | Media Query.
+- Código: https://github.com/antonioneto30/projetos-html-css-alura/tree/master/4%20-%20AluraPlay
+
+#### 5º Projeto - 
 - Link da página:
 - Tecnologias Utilizadas: HTML | CSS | Flexbox | Sass.
 - Código:
 
-### 6º Projeto - 
+#### 6º Projeto - 
 - Link da página:
 - Tecnologias Utilizadas: HTML | CSS | Flexbox | Tailwind.
 - Código:
 
-### 7º Projeto - 
+#### 7º Projeto - 
 - Link da página:
 - Tecnologias Utilizadas: HTML | CSS | Grid.
 - Código:
