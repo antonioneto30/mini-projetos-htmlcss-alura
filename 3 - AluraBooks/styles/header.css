@@ -4,6 +4,7 @@
     background-position: center;
     width: 24px;
     height: 24px;
+    padding-left: 1rem;
     display: inline-block;
 }
 
@@ -86,11 +87,11 @@
     .container__titulo,
     .container__titulo--negrito {
         font-family: var(--fonte-secundario);
-        font-size: 30px;
+        font-size: 27px;
     }
 
     .container__titulo {
-        font-weight: 400;
+        font-weight: 300;
         display: block;
     }
 
@@ -99,6 +100,7 @@
         align-items: center;
         text-decoration: none;
         color: var(--preto);
+        padding-right: 1rem;
     }
 
     .container__titulo--negrito {
@@ -175,4 +177,5 @@
     .container__texto {
         display: block;
     }
+    
 }
