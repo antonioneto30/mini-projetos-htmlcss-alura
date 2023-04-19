@@ -25,7 +25,7 @@ Projetos realizados pelas Formações: "A partir do zero: HTML e CSS para projet
 
 #### 4º Projeto - Plataforma AluraPlay (A página veio pronta, o desafio foi deixá-la responsiva)
 - Link da página:
-- Tecnologias Utilizadas: HTML | CSS | Flexbox | Media Query.
+- Tecnologias Utilizadas: HTML | CSS | Flexbox | Mobile-First| Media Query.
 - Código: https://github.com/antonioneto30/projetos-html-css-alura/tree/master/4%20-%20AluraPlay
 
 #### 5º Projeto - 
