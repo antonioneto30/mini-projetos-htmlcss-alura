@@ -18,27 +18,32 @@ Projetos realizados pelas Formações: "A partir do zero: HTML e CSS para projet
 
 #### 3º Projeto - Landing Page AluraBooks
 - Link da página: https://sparkly-sherbet-dcc78b.netlify.app
-- Tecnologias Utilizadas: HTML | CSS | Flexbox | Mobile-First | SwiperJS | Media Query.
+- Tecnologias Utilizadas: HTML | CSS | Flexbox | SwiperJS | Mobile-First | Media Query.
 - Código: https://github.com/antonioneto30/projetos-html-css-alura/tree/master/3%20-%20AluraBooks
 
 ##### Segunda Formação - "CSS: aprofunde em estilos":
 
 #### 4º Projeto - Plataforma AluraPlay (A página veio pronta, o desafio foi deixá-la responsiva)
-- Link da página:
-- Tecnologias Utilizadas: HTML | CSS | Flexbox | Mobile-First| Media Query.
+- Link da página: https://6446aeb2568d2008aba937fe--mellow-puffpuff-70424b.netlify.app
+- Tecnologias Utilizadas: HTML | CSS | Flexbox | Mobile-First | Media Query.
 - Código: https://github.com/antonioneto30/projetos-html-css-alura/tree/master/4%20-%20AluraPlay
 
-#### 5º Projeto - 
+#### 5º Projeto - Plataforma AluraCast (A página veio pronta, o desafio foi deixá-la responsiva)
 - Link da página:
-- Tecnologias Utilizadas: HTML | CSS | Flexbox | Sass.
-- Código:
+- Tecnologias Utilizadas: HTML | CSS | Grid | Mobile-First | Media Query.
+- Código: https://github.com/antonioneto30/projetos-html-css-alura/tree/master/4%20-%20AluraPlay
 
 #### 6º Projeto - 
 - Link da página:
-- Tecnologias Utilizadas: HTML | CSS | Flexbox | Tailwind.
+- Tecnologias Utilizadas: HTML | CSS | Sass | Mobile-First | Media Query.
 - Código:
 
 #### 7º Projeto - 
 - Link da página:
-- Tecnologias Utilizadas: HTML | CSS | Grid.
+- Tecnologias Utilizadas: HTML | CSS | Tailwind | Mobile-First | Media Query.
+- Código:
+
+#### 8º Projeto (Último)- 
+- Link da página:
+- Tecnologias Utilizadas: HTML | CSS | Flexbox | Grid | Mobile-First | Media Query.
 - Código:
