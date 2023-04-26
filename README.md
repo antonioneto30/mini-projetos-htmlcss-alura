@@ -25,13 +25,13 @@ Projetos realizados pelas Formações: "A partir do zero: HTML e CSS para projet
 
 #### 4º Projeto - Plataforma AluraPlay (A página veio pronta, o desafio foi deixá-la responsiva)
 - Link da página: https://6446aeb2568d2008aba937fe--mellow-puffpuff-70424b.netlify.app
-- Tecnologias Utilizadas: HTML | CSS | Flexbox | Mobile-First| Media Query.
+- Tecnologias Utilizadas: HTML | CSS | Flexbox | Mobile-First | Media Query.
 - Código: https://github.com/antonioneto30/projetos-html-css-alura/tree/master/4%20-%20AluraPlay
 
-#### 5º Projeto - 
+#### 5º Projeto - Plataforma AluraCast (A página veio pronta, o desafio foi deixá-la responsiva)
 - Link da página:
-- Tecnologias Utilizadas: HTML | CSS | Flexbox | Sass.
-- Código:
+- Tecnologias Utilizadas: HTML | CSS | Flexbox | Grid.
+- Código: https://github.com/antonioneto30/projetos-html-css-alura/tree/master/4%20-%20AluraPlay
 
 #### 6º Projeto - 
 - Link da página:
@@ -40,5 +40,5 @@ Projetos realizados pelas Formações: "A partir do zero: HTML e CSS para projet
 
 #### 7º Projeto - 
 - Link da página:
-- Tecnologias Utilizadas: HTML | CSS | Grid.
+- Tecnologias Utilizadas: HTML | CSS | Grid | Sass.
 - Código:
