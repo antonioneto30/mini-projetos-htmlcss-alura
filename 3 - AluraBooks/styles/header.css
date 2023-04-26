@@ -67,8 +67,8 @@
     display: none;
 }
 
-.container__titulo {
-    display: none;
+.contato__titulo, .container__texto{
+    display:none;
 }
 
 .opções {
