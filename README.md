@@ -29,11 +29,11 @@ Projetos realizados pelas Formações: "A partir do zero: HTML e CSS para projet
 - Código: https://github.com/antonioneto30/projetos-html-css-alura/tree/master/4%20-%20AluraPlay
 
 #### 5º Projeto - Plataforma AluraCast (A página veio pronta, o desafio foi deixá-la responsiva)
-- Link da página:
+- Link da página: https://644c0bafb93e9b0054070e7a--cerulean-rabanadas-fbb5b4.netlify.app
 - Tecnologias Utilizadas: HTML | CSS | Grid | Mobile-First | Media Query.
 - Código: https://github.com/antonioneto30/projetos-html-css-alura/tree/master/4%20-%20AluraPlay
 
-#### 6º Projeto - 
+#### 6º Projeto - Plataforma AluraSpa
 - Link da página:
 - Tecnologias Utilizadas: HTML | CSS | Sass | Mobile-First | Media Query.
 - Código:
