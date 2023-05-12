@@ -36,7 +36,7 @@ Projetos realizados pelas Formações: "A partir do zero: HTML e CSS para projet
 #### 6º Projeto - Plataforma AluraSpa
 - Link da página:
 - Tecnologias Utilizadas: HTML | CSS | Sass | Mobile-First | Media Query.
-- Código:
+- Código: https://github.com/antonioneto30/projetos-html-css-alura/tree/master/6%20-%20AluraSpa
 
 #### 7º Projeto - 
 - Link da página:
